@@ -9,14 +9,14 @@ The samples were obtained from standard short-duration 12-lead ECG images record
 
 
 #### File structure
-**├── png100/**                    Uncropped 100dpi PNG image. (Have been packaged with RAR)    
-**├── crops/**                       The pre-cropped image. (Have been packaged with RAR)    
-**├── example/**                 Several examples of data samples in crops and png100 folders    
-**├── labels.csv**                 Unprocessed sample label    
-**├── labels_cls8.csv**        8 classes of pre-extracted    
-**├── test1000_list.csv**       Test set file name list    
-**├── expert1_result.csv**   Test set results for ECG Expert 1    
-**├── expert2_result.csv**   Test set results for ECG expert 2    
+**├── png100/**   <------------------ Uncropped 100dpi PNG image. (Have been packaged with RAR)    
+**├── crops/**    <------------------ The pre-cropped image. (Have been packaged with RAR)    
+**├── example/**  <------------------ Several examples of data samples in crops and png100 folders    
+**├── labels.csv**    <-------------- Unprocessed sample label    
+**├── labels_cls8.csv**    <--------- 8 classes of pre-extracted    
+**├── test1000_list.csv**     <------ Test set file name list    
+**├── expert1_result.csv**    <------ Test set results for ECG Expert 1    
+**├── expert2_result.csv**    <------ Test set results for ECG expert 2    
 **└── readme.txt**
 
 

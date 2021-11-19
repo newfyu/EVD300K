@@ -23,5 +23,4 @@ The samples were obtained from standard short-duration 12-lead ECG images record
 
 
 #### Download link:
-
-https://pan.baidu.com/s/1PslGkzJc1I1hLrMglmUoLQ  Password: qfdt
+https://pan.baidu.com/s/11b8DFzJrGGTZWq4b6GWPLg  Password: cij1
